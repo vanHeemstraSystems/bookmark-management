@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Bookmark - Management](README.md)
+* [Bookmark Management](README.md)
